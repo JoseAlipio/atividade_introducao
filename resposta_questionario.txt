@@ -1,0 +1,30 @@
+JOSÉ ALÍPIO ALVES FERREIRA JUNIOR
+RA 1460682023008
+
+I. Sistema computacional: OpenOffice Calc
+
+DADO: data em que foi feita a inspeção B1 de uma aeronave.
+
+INFORMAÇÃO: planilha calcula a data provável da próxima inspeção computando 6 meses a mais da data da inspeção.
+
+CONHECIMENTO: sempre que abro a planilha, através da função AGORA(), a planilha compara a data atual com a da próxima inspeção e me avisa se a inspeção está PRÓXIMA ou VENCIDA.
+
+II. Saída:
+
+01001010
+01101111
+01110011
+01100101
+
+01001010
+01110101
+01101110
+01101001
+01101111
+01110010
+
+
+III. PORTAL DE SERVIÇOS DE TI DA FORÇA AÉREA BRASILEIRA
+link: https://www2.fab.mil.br/sti/
+
+
